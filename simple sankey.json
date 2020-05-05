@@ -3,8 +3,8 @@
 {"node":0,"name":"Incremental"},
 {"node":1,"name":"Loss"},
 {"node":2,"name":"node2"},
-{"node":3,"name":"node3"},
-{"node":4,"name":"node4"}
+{"node":3,"name":"Product 1"},
+{"node":4,"name":"Product 2"}
 ],
 "links":[
 {"source":0,"target":2,"value":2},
