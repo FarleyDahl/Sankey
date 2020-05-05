@@ -3,7 +3,7 @@
 {"node":0,"name":"Incremental"},
 {"node":1,"name":"Loss"},
 {"node":2,"name":"fred"},
-{"node":3,"name":"node3"},
+{"node":3,"name":"product 1"},
 {"node":4,"name":"node4"}
 ],
 "links":[
