@@ -1,10 +1,10 @@
 {
 "nodes":[
-{"node":0,"name":"Farley"},
-{"node":1,"name":"Mark"},
-{"node":2,"name":"node2"},
-{"node":3,"name":"node3"},
-{"node":4,"name":"node4"}
+{"node":0,"name":"Cost"},
+{"node":1,"name":"Sustainability"},
+{"node":2,"name":"Retail"},
+{"node":3,"name":"Agriculture"},
+{"node":4,"name":"Aged Care"}
 ],
 "links":[
 {"source":0,"target":2,"value":2},
